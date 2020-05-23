@@ -6,7 +6,7 @@ https://notebooks.gesis.org/binder/jupyter/user/simon-donike-bil_histogram-62j7q
 
 
 
-Aufgabe:
+## Aufgabe
 Hi Simon
  
 Nochmal zur Histogramm Übung (entsprechende Excel und Lösung anbei).
