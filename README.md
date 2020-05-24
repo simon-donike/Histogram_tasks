@@ -1,5 +1,5 @@
 # bil_histogram
-Worksheet for Histogram, BIL and correlation tests.
+Jupyter Notebooks for Histogram, BIL and spatial autocorrelation.
 
 ## Executable and manipulatable Jupyter Notpads hosted on MyBinder:
 Click Link to launch Binder:      
