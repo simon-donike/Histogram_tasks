@@ -1,12 +1,6 @@
 # Understanding BIL and Histograms in Python
 
-## Executable and manipulatable Jupyter Notpads hosted on MyBinder:
-Click Link to launch Binder:      
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simon-donike/bil_histogram/master)
-
-Launching Binder after new commit might take a while, since the docker needs to be rebuilt by MyBinder
-
-
 
 ## Aufgabe
 
@@ -26,7 +20,11 @@ This notebook loads a numeric pixel value image, as well as a same-size randomly
 generated image. In order to show that histograms can show that an image is "realistic",
 histograms for both images are created and compared.
 
+**Click on Button to launch notepads in MyBinder:**
+   
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simon-donike/bil_histogram/master)
 
+Launching Binder after new commit might take a while, since the docker needs to be rebuilt by MyBinder
 
 Hi Simon
  
