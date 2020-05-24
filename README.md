@@ -2,7 +2,7 @@
 Worksheet for Histogram, BIL and correlation tests.
 
 ## Executable and manipulatable Jupyter Notpads hosted on MyBinder:
-https://notebooks.gesis.org/binder/jupyter/user/simon-donike-bil_histogram-62j7qpeb/tree
+https://mybinder.org/v2/gh/simon-donike/bil_histogram/master
 
 
 
