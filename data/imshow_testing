@@ -25,7 +25,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 dpi = 100 # Arbitrary. The number of pixels in the image will always be identical
-data = pd.read_csv("linc_seg.csv",delimiter=";",index_col="index")
+#data = pd.read_csv("linc_seg.csv",delimiter=";",index_col="index")
+data = np.random.randint(0,255,size=(10000,10000))
+data = pd.DataFrame(data)
 
 #data = np.random.random((10, 10))
 height, width = np.array(data.shape, dtype=float) / dpi
@@ -36,8 +38,7 @@ ax = fig.add_axes([0, 0, 1, 1])
 ax.axis('off')
 
 ax.imshow(data, interpolation='none', cmap="gray")
-fig.savefig('test.tif', dpi=dpi, edgecolor = "none")
-
-
+fig.savefig('test_2.tif', dpi=dpi, edgecolor = "none")
+print("DONE!")
 
 
