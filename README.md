@@ -9,7 +9,7 @@ the exercises.
 
 **01_BIL_to_Histogram:**
 This notebook shows how BIL data is read and transformed to a histogram. All the 
-necessary steps are to complete the task are annotated.
+necessary steps to complete the task are annotated.
 
 **02_Lincoln_hist_corrleation***
 This notebook reads the Lincoln image and prints the table of values as well as
