@@ -13,7 +13,7 @@ the exercises.
 This notebook shows how BIL data is read and transformed to a histogram. All the 
 necessary steps to complete the task are annotated.
 
-**02_Lincoln_hist_corrleation***
+**02_Lincoln_hist_corrleation**
 This notebook reads the Lincoln image and prints the table of values as well as
 a rendered image.
 
